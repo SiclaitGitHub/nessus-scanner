@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<p <img width="798" alt="Screen Shot 2023-07-13 at 1 53 05 AM" src="https://github.com/SiclaitGitHub/nessus-scanner/assets/139138443/d8a7a74d-77a4-4af5-9619-7714c03573d3">
+
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
