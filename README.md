@@ -10,7 +10,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to install and deploy Nessus Vulnerability Scanner](https://www.youtube.com/watch?v=lT6Px9zJM3s&t=379s)
 
 <h2>Environments and Technologies Used</h2>
 
