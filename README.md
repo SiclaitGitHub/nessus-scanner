@@ -5,8 +5,12 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
+Nessus is a widely used vulnerability scanning tool developed by Tenable Network Security. It is designed to identify potential security vulnerabilities in computer systems, networks, and applications. Nessus helps organizations assess their security posture and identify areas that may be susceptible to attacks or exploitation.
+
+The tool operates by scanning target systems and devices, searching for known vulnerabilities, misconfigurations, and potential weaknesses. It uses a comprehensive database of known vulnerabilities, which is regularly updated, to compare the configuration and state of a system against a set of security checks.
+
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 <h2>Video Demonstration</h2>
 
